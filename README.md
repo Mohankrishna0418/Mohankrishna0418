@@ -28,4 +28,4 @@ A self-taught `Full-Stack Mobile Developer`.
 ---
 
 
-- 🕸 [`X@Mohankrishna`](https://x.com/mohankrishna411) • [`LinkedIn`](https://www.linkedin.com/in/mohan-krishna-a-8bba622a8/)) • [`LinkedIn`](https://www.linkedin.com/in/mohan-krishna-a-8bba622a8/)
+- 🕸 [`X@Mohankrishna`](https://x.com/mohankrishna411) • [`LinkedIn`](https://www.linkedin.com/in/mohan-krishna-a-8bba622a8/)
