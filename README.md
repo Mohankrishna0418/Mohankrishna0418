@@ -23,7 +23,9 @@ A self-taught `Full-Stack Mobile Developer`.
 
 
 ### Projects
-- `Second Brain`
+- `Fileless Malware Detection`
+- `Colon Cancer Prediction`
+- `Object Detection`
 
 ---
 
